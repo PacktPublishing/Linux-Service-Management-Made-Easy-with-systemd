@@ -1,0 +1,16 @@
+# Copy this file to the /etc/systemd/system/ directory. Use cp, not mv, so that the file ownership will get set correctly.
+
+[Unit]
+Description=Run this service only when shutting down
+DefaultDependencies=no
+Conflicts=reboot.target
+Before=poweroff.target halt.target shutdown.target
+Requires=poweroff.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/script.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=shutdown.target
