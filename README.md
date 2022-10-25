@@ -54,3 +54,7 @@ but you can call him Donnie - got involved with Linux way back in 2006, and has 
 * [Mastering Linux Security and Hardening](https://www.packtpub.com/product/mastering-linux-security-and-hardening/9781788620307?utm_source=github&utm_medium=repository&utm_campaign=9781788620307)
 
 * [Mastering Linux Security and Hardening - Second Edition](https://www.packtpub.com/product/mastering-linux-security-and-hardening-second-edition/9781838981778?utm_source=github&utm_medium=repository&utm_campaign=9781838981778)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801811644">https://packt.link/free-ebook/9781801811644 </a> </p>
